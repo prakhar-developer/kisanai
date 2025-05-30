@@ -4,8 +4,8 @@
 
 **Kisan.ai** is a next-gen MERN-stack platform built to empower farmers, agri-experts, and government bodies with real-time insights, AI-powered recommendations, and a complete digital infrastructure to modernize Indian agriculture.
 
-> 🌐 Live Demo (Coming Soon) • 🚀 Built by [Prakhar Srivastava](https://github.com/yourusername)
-
+> 🌐 Live Demo (Coming Soon) • 🚀 Built by [Prakhar Srivastava](https://github.com/prakhar-developer)
+>  Youtube Link - https://youtu.be/oMkHDWYIr_o?si=osLNUbS0mJzCF1ZM
 ---
 
 ## 📊 Project Overview
